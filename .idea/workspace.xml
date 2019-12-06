@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -33,6 +36,7 @@
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="spark-app" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -91,22 +95,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="461" y="140" width="501" height="513" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1575619648777" />
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1575625895252">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1575625972353">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575625895252" />
-    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1575625895251">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575625972353" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1575625972353">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1575625895251" />
-    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1575625895250">
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1575625972353" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1575625972352">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1575625895250" />
-    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1575625895251">
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1575625972352" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1575625972353">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1575625895251" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1575625972353" />
     <state x="205" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1575620351228">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
