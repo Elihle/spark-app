@@ -1,13 +1,10 @@
 import spark.ModelAndView;
 import spark.template.handlebars.HandlebarsTemplateEngine;
-
 import java.util.HashMap;
 import java.util.Map;
-
 import static spark.Spark.*;
 
 public class HelloWorld {
-
 
     static int getHerokuAssignedPort() {
         ProcessBuilder processBuilder = new ProcessBuilder();
@@ -31,7 +28,7 @@ public class HelloWorld {
             return new ModelAndView(dataMap, "hello.hbs");
 
         }, new HandlebarsTemplateEngine());
-    }
 
+    }
 
 }
