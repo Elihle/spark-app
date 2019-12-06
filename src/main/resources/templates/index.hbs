@@ -1,0 +1,31 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="stylesheet" href="css/style.css">
+
+<div class="container">
+    <h1>GREET ME</h1><br>
+
+    <form method="post" action="/greet">
+        <div class="form-group">
+            Name:<input type="text" name="firstname" class="form-control" id="usr"><br>
+
+            <div class="counter">
+                {{counter}}
+            </div>
+            <div class="language">
+                <label>
+                    <input type="radio" name="language" value="eng">English <br>
+                </label>
+                <label>
+                    <input type="radio" name="language" value="xhosa">IsiXhosa <br>
+                </label>
+                <label>
+                    <input type="radio" name="language" value="afr">Afrikaans <br>
+                </label>
+            </div>
+
+            <br>
+        <button class="btn btn-primary" type="submit">Submit</button>
+        </div>
+    </form>
+
+</div>
