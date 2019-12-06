@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6866de98-948b-4a34-abe0-f0d078927cd8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HelloWorld.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
